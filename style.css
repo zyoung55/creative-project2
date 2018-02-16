@@ -5,15 +5,11 @@ footer a {
 }
 
 footer {
-    background-color: #3378FF;
+       background-color: #3378FF;
 }
 
 footer li {
-    list-style-type: none;
-}
-
-#footer-div {
-    text-allign: center;
+       list-style-type: none;
 }
 
 nav a {
@@ -27,37 +23,37 @@ nav a {
 }
 
 nav {
-    background-color: #3378FF;
-    color: #3378FF;
+       background-color: #3378FF;
+       color: #3378FF;
 }
 
 nav li {
-    list-style-type: none;
-    display: inline-block;
+       list-style-type: none;
+       display: inline-block;
 }
 
 news-api {
-    text-decoration: none;
+	 text-decoration: none;
 }
 
 #userPickedArticle0 img {
-            width: 50%
+         width: 50%
 }
 
 
 #userPickedArticle1 img {
-	    width: 50%
+      width: 50%
 }
 
 #userPickedArticle2 img {
-            width: 50%
+      width: 50%
 }
 
 
 #userPickedArticle3 img {
-            width: 50%
+      width: 50%
 }
 
 #userPickedArticle4 img {
-            width: 50%
+      width: 50%
 }
