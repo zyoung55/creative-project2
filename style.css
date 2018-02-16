@@ -1,0 +1,63 @@
+footer a {
+       color: white;
+       text-decoration: none;
+       background-color: #3378FF;
+}
+
+footer {
+    background-color: #3378FF;
+}
+
+footer li {
+    list-style-type: none;
+}
+
+#footer-div {
+    text-allign: center;
+}
+
+nav a {
+       color: white;
+       display: inline-block;
+       text-decoration: none;
+       background-color: #3378FF;
+       padding: 5px;
+       margin: 0;
+       width: 100%;
+}
+
+nav {
+    background-color: #3378FF;
+    color: #3378FF;
+}
+
+nav li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+news-api {
+    text-decoration: none;
+}
+
+#userPickedArticle0 img {
+            width: 50%
+}
+
+
+#userPickedArticle1 img {
+	    width: 50%
+}
+
+#userPickedArticle2 img {
+            width: 50%
+}
+
+
+#userPickedArticle3 img {
+            width: 50%
+}
+
+#userPickedArticle4 img {
+            width: 50%
+}
